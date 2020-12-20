@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+  background-image: linear-gradient(purple, blue);
+}
+
+#img1{
+  border-radius:50%;
+    width: 100px;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right:10px;
+    cursor: pointer;
+    color: black;
+        
+}
+
+.links:hover{
+background-color: aqua;
+}
